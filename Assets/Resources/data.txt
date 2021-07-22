@@ -1,0 +1,10 @@
+{
+    "player_data":
+    {
+        "health":100
+    },
+    "moss_gaint_data":
+    {
+        "health":100
+    }
+}
